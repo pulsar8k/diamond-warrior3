@@ -1,6 +1,6 @@
-# Diamond Warrior
+![diamond](diamond.png) 
+<h1 align="center">Diamond Warrior</h1>
 파이썬 3로 제작된 텍스트 인터페이스형 게임입니다.
-
 랜덤 모듈을 활용한 확률 게임입니다.
 
 # Prologue
