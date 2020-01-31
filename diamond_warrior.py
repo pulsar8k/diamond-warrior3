@@ -2,9 +2,6 @@
 # Diamond-Warrior Python-Based Text Game v1.0.0
 # By Minseo Kang @ pulsar8k
 
-# Language Written by English
-# README on Reddit!
-
 import os
 print("* Reading data file...")
 dataPath = "C:\\diamond-warrior\\data\\inventory.txt"
