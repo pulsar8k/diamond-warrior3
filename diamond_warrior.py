@@ -22,10 +22,9 @@ def makeDirectory():
         if not (os.path.isdir(directoryPath)):
             print("* Installing Resources...")
             os.makedirs(os.path.join(directoryPath))
-    except OSError as e:
-        if e.errno != errno.EEXIST:
-            print("* Failed to create directory.")
-            raise
+    except:
+        print("* Failed to create directory.")
+        raise
 
 
 def readData():
